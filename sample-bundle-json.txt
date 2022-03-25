@@ -1,0 +1,37 @@
+{
+    "id": "b8ea4233-7b50-4a0f-e18a-c9fffa49cec5",
+    "author": "",
+    "widgets": [
+        {
+            "id": "IHIS",
+            "name": "IHIS",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        }
+    ],
+    "sidebarLinks": [
+        {
+            "id": "IHISLink",
+            "label": "",
+            "description": "",
+            "target": "",
+            "icon": "",
+            "roles":[]
+        }
+    ],
+    "uis": [
+        {
+            "id": "IHISLink",
+            "label":"",
+            "description": "",
+            "roles": []
+        }
+    ],
+    "menuItems": [
+        {
+            "id": "IHISLink",
+            "title": "IHIS"
+        }
+    ]
+}

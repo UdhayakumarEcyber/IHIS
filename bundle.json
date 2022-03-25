@@ -1,0 +1,45 @@
+{
+    "id": "a858352c-3988-4b7d-f41b-2881a85c239a",
+    "author": "",
+    "widgets": [
+        {
+            "id": "IHIS",
+            "name": "IHIS",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        },
+        {
+            "id": "TimeDispense",
+            "name": "TimeDispense",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        },
+        {
+            "id": "LastestDischarges",
+            "name": "LastestDischarges",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        },
+        
+        {
+            "id": "DispenseItem",
+            "name": "DispenseItem",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        }
+
+    ],
+    "sidebarLinks": [
+        
+    ],
+    "uis": [
+       
+    ],
+    "menuItems": [
+        
+    ]
+}
